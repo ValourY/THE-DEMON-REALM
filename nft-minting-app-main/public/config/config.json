@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1A032d9180de9990790ABC6dcF1aCC109541d85d",
+  "SCAN_LINK": "https://etherscan.io/address/0x1a032d9180de9990790abc6dcf1acc109541d85d",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "THE DEMON Realm",
+  "SYMBOL": "TDR",
+  "MAX_SUPPLY": 4444,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.004,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://twitter.com/VivienAnne4",
+  "SHOW_BACKGROUND": true
+}
